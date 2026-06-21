@@ -107,3 +107,5 @@ HUDRenderer (OpenCV overlay)
   ├─ Active zone rectangle
   └─ FPS counter
 ```
+
+:D
